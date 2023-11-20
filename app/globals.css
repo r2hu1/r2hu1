@@ -132,7 +132,6 @@ html {
 body {
   font-family: 'Noto Sans';
   background: #ffffff;
-  overflow-x: hidden !important;
 }
 
 h1,

@@ -4,12 +4,18 @@ import Footer from '@/components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const viewport = 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no';
+// export const viewport = 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no';
 export const metadata = {
   title: 'Rahul Rajput',
   description: 'I am a passionate coder with a keen interest in learning about new technologies.',
   icons: {
     icon: 'https://i.postimg.cc/Xq8SWwwz/Screenshot-2023-11-18-235925.png',
+  },
+  viewport: {
+    width: 'device-width',
+    initialScale: 1.0,
+    maximumScale: 1.0,
+    userScalable: 'no',
   },
 };
 
