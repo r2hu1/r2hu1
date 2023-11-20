@@ -10,7 +10,7 @@ export default function Projects() {
 
                 <div className="prjt">
                     <div className="thumb">
-                        <a target="_blank" href="https://vercel.com/r2hu1s-projects/google-login" className="btn"><svg
+                        <a target="_blank" href="https://e-signature-chi.vercel.app/" className="btn"><svg
                             xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-link-45deg"
                             viewBox="0 0 16 16">
                             <path

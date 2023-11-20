@@ -7,11 +7,13 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Rahul Rajput',
   description: 'I am a passionate coder with a keen interest in learning about new technologies.',
-  viewport: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no',
   icons: {
     icon: 'https://i.postimg.cc/Xq8SWwwz/Screenshot-2023-11-18-235925.png',
   },
-}
+};
+
+export const viewport = 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no';
+
 
 export default function RootLayout({ children }) {
   return (
