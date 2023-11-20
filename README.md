@@ -17,10 +17,10 @@ When I'm not coding, you'll find me immersed in the world of gaming. It's not ju
 ## 📝 Contact Me
 Feel free to reach out to me for any collaboration or project inquiries. I'm always open to new opportunities and challenges.
 
-!Instagram
-!Email
-
 ## 📚 Always Learning
 As a self-taught developer, I believe in lifelong learning. I'm constantly exploring new technologies and expanding my skill set.
 
 Thank you for visiting my repository!
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/r.rah_ul/)
+[![Email](https://img.shields.io/badge/Email-newasram86%40gmail.com-blue)](mailto:newasram86@gmail.com)
