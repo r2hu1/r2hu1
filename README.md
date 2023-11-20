@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hello, I'm Rahul Rajput 👋
 
-## Getting Started
+I'm a self-taught full-stack developer from India, a passionate gamer, and a dedicated freelancer. 
 
-First, run the development server:
+## 🚀 About Me
+I embarked on my journey as a developer by teaching myself how to code. Over time, I've gained proficiency in various technologies and have developed a diverse portfolio of projects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💻 Skills
+- Full Stack Development
+- Proficient in HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, PHP, MongoDB
+- Experience with Docker and AWS
+- Figma for UI/UX Design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎮 Gaming
+When I'm not coding, you'll find me immersed in the world of gaming. It's not just a hobby, but a passion that keeps my creative juices flowing.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📝 Contact Me
+Feel free to reach out to me for any collaboration or project inquiries. I'm always open to new opportunities and challenges.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📚 Always Learning
+As a self-taught developer, I believe in lifelong learning. I'm constantly exploring new technologies and expanding my skill set.
 
-## Learn More
+Thank you for visiting my repository!
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/r.rah_ul/)
+[![Email](https://img.shields.io/badge/Email-newasram86%40gmail.com-blue)](mailto:newasram86@gmail.com)
