@@ -11,9 +11,6 @@ I embarked on my journey as a developer by teaching myself how to code. Over tim
 - Experience with Docker and AWS
 - Figma for UI/UX Design
 
-## 🎮 Gaming
-When I'm not coding, you'll find me immersed in the world of gaming. It's not just a hobby, but a passion that keeps my creative juices flowing.
-
 ## 📝 Contact Me
 Feel free to reach out to me for any collaboration or project inquiries. I'm always open to new opportunities and challenges.
 
