@@ -246,6 +246,7 @@ a {
 .hero .hro h1 span,
 .afBg {
   position: relative;
+}
 
 .hero .hro h1 span::before,
 .afBg::before {
