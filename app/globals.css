@@ -418,9 +418,9 @@ input:focus {
 }
 
 .project .prjtin {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: auto auto auto;
+  display: flex;
+  gap:23px;
+  flex-wrap: wrap;
 }
 
 .project .prjt {
