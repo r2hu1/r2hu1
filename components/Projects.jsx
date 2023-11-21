@@ -3,10 +3,7 @@ import Card from '@/components/Card'
 export default function Projects() {
     return (
         <section className="project">
-            <div className="flex">
-                <h1 className="afBg">Projects</h1><h1>.</h1>
-            </div>
-            <div className="prjtin">
+            <div className="flex"><h1 className="afBg">Projects</h1><h1>.</h1></div><div className="prjtin">
 
                 <Card
                     title={"E-Signature"}
