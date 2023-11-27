@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <Header btnText={"Get In Touch"} pageUrl={"/contact"}/>
       <Hero />
-    {/*<Skills />*/}
+      <Skills />
       <Projects />
     </div>
   )
