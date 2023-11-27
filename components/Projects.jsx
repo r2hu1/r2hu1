@@ -22,6 +22,15 @@ export default function Projects() {
                     lang1={"JavaScript"}
                     lang2={"Git"}
                 />
+                
+                <Card
+                    title={"DrawIT"}
+                    description={"A online web based drawing/presentation app made with nextjs."}
+                    previewUrl={"https://drawit-r.vercel.app/"}
+                    thumbnail={"https://i.postimg.cc/zv2FtWGQ/Screenshot-2023-11-27-182731.png"}
+                    lang1={"NextJS"}
+                    lang2={"TailwindCSS"}
+                />
 
             </div>
         </section>
