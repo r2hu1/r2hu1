@@ -20,4 +20,4 @@ As a self-taught developer, I believe in lifelong learning. I'm constantly explo
 Thank you for visiting my repository!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/r.rah_ul/)
-[![Email](https://img.shields.io/badge/Email-newasram86%40gmail.com-blue)](mailto:newasram86@gmail.com)
+[![Email](https://img.shields.io/badge/Email-admin%40rahul.eu.org-blue)](mailto:admin@rahul.eu.org)
