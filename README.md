@@ -17,7 +17,7 @@ Feel free to reach out to me for any collaboration or project inquiries. I'm alw
 ## 📚 Always Learning
 As a self-taught developer, I believe in lifelong learning. I'm constantly exploring new technologies and expanding my skill set.
 
-Thank you for visiting my repository!
+Thank you for visiting my git repo!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/r.rah_ul/)
 [![Email](https://img.shields.io/badge/Email-admin%40rahul.eu.org-blue)](mailto:admin@rahul.eu.org)
