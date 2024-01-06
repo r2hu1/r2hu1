@@ -1,6 +1,4 @@
 # Hello, I'm Rahul Rajput 👋
-
-## 🚀 About Me
 I embarked on my journey as a developer by teaching myself how to code. Over time, I've gained proficiency in various technologies and have developed a diverse portfolio of projects.
 
 ## 👨‍💻 Skills
