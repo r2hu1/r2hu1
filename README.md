@@ -8,5 +8,5 @@ I embarked on my journey as a developer by teaching myself how to code. Over tim
 - Figma for UI/UX Design
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40r.rah_ul-orange)](https://www.instagram.com/r.rah_ul/)
-[![Email](https://img.shields.io/badge/Email-admin%40rahul.eu.org-white)](mailto:admin@rahul.eu.org)
+[![Email](https://img.shields.io/badge/Email-admin%40rahul.eu.org-blue)](mailto:admin@rahul.eu.org)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahul.eu.org-green)](https://rahul.eu.org)
