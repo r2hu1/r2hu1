@@ -1,16 +1,15 @@
 import { Button } from "@/components/ui/button";
+import { AlertTriangle } from "lucide-react";
 import Link from "next/link";
 
 export default function Page() {
     return (
-        <section className="h-[70vh] w-full flex items-center justify-center px-6">
-            <div className="border p-4 rounded-md max-w-md">
-                <h1 className="text-xl font-medium">Error 404 page not found!</h1>
-                <p className="text-sm">something went wrong or the page does not exist.</p>
-                <div className="flex items-center gap-3 mt-3">
-                    <Button asChild><Link href="/">Go Home</Link></Button>
-                </div>
+        <div className="z-10 bg-background h-full w-full absolute top-0 left-0 right-0 flex items-center justify-center">
+            <div className="grid gap-2 text-center max-w-xs px-6 place-items-center">
+                <AlertTriangle className="h-5 w-5" />
+                <p className="text-muted-foreground text-sm">The page you are trying to access does not exists.</p>
+                <Button variant="outline" asChild><Link href="/">Back to Homepage</Link></Button>
             </div>
-        </section>
+        </div>
     )
 }

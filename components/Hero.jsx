@@ -62,7 +62,7 @@ export default function Hero() {
     return (
         <section className="py-10 mt-3 px-7 md:px-20 lg:px-32">
             <div className="grid gap-3 max-w-2xl lg:max-w-4xl">
-                <h2 className="text-3xl font-medium text-gray-900 dark:text-gray-50 sm:text-4xl lg:text-5xl"><span className="font-serif">I</span> am <span className="font-serif">R</span>ahul <span className="font-serif">R</span>ajput, <span className="animate-text-gradient sm:inline-flex bg-gradient-to-r from-neutral-900 via-slate-500 to-neutral-500 bg-[200%_auto] bg-clip-text leading-tight text-transparent dark:from-neutral-100 dark:via-slate-400 dark:to-neutral-400 italic">self thought full stack developer</span> from <span className="font-medium">India.</span></h2>
+                <h2 className="text-3xl font-medium text-gray-900 dark:text-gray-50 sm:text-4xl lg:text-5xl"><span className="font-serif">I</span> am <span className="font-serif">R</span>ahul <span className="font-serif">R</span>ajput, <span className="animate-text-gradient sm:inline-flex bg-gradient-to-r from-neutral-900 via-slate-500 to-neutral-500 bg-[200%_auto] bg-clip-text leading-tight text-transparent dark:from-neutral-100 dark:via-slate-400 dark:to-neutral-400">self thought full stack developer</span> from <span className="font-medium">India.</span></h2>
                 <p className="text-base dark:text-gray-400 text-gray-600 -mt-1 mb-3">A full stack developer with a passion for creating modern and intuitive web applications.</p>
                 <div className="flex gap-3">
                     {!isBreakpoint ? (

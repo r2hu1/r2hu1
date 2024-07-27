@@ -70,3 +70,18 @@
     box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
   }
 }
+
+.glowBg {
+  opacity: 100%;
+  animation: glow 2s infinite;
+}
+
+@keyframes glow {
+  from {
+    opacity: 50%;
+  }
+
+  to {
+    opacity: 100%;
+  }
+}
